@@ -10,7 +10,7 @@ a{
 }
 
 .tableLabWorks{
-    width: 100%;
+    width: 100%;    
 }
 
 .tableLabWorks td {
@@ -19,22 +19,25 @@ a{
     text-align: center;
     padding: 15px;
     background-color: rgb(171, 255, 176);
+    font-size: 20px;/*<---------------------new--------*/
     
 }
 .tableContent td{
     border: 1px solid black;
-    border-radius: 20px;
+    border-radius: 5px;/*<---------------------20px--------*/
     text-align: center;
     padding: 15px;
     background-color: rgb(171, 255, 176);
+    font-size: 20px;/*<---------------------new--------*/
 }
 .tableContent .tdContent{
     width: 100%;
     border: 1px solid black;
-    border-radius: 20px;
+    border-radius: 15px;/*<--------------------20px---------*/
     text-align: left;
     padding: 15px;
     background-color: white;
+    font-size: 20px;/*<---------------------new--------*/
 }
 /*----------------------------------New Style-----------------------------------*/
 
